@@ -16,11 +16,5 @@ Ps: Wenn es mit Google Chrom geöffnet wird rechnet es am Schnellsten! :))))
 
 ### Vorschau
 
-z.B. auf:
-
-https://htmlpreview.github.io/
-
-- Dort die URL des .html Files Eingeben.
-
-
+[Ausführen](http://htmlpreview.github.io/?https://github.com/sauternic/JavaScript_Primzahlen_Auflisten/blob/master/Primzahlen_Auflisten.html)
 
