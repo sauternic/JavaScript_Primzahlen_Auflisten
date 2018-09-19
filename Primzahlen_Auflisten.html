@@ -5,17 +5,17 @@
     <script>
         window.onload = function(){   
             //Main-Programm: *************************************************************************
-                var a = confirm("Ich liste Primzahlen\nin einem gewünschten Bereich auf!\n\nI list primes\nin a desired area!)");
+                var a = confirm("Ich liste Primzahlen\nin einem gewünschten Bereich auf!\n:)");
                 if (!a) return;
                     
                 
                 while(true)//Bei Falscher Eingabe Wiederholen, ersetzt Goto! :)
                 {
-                    var anfang_str = prompt("Untergrenze  (lower limit)",1000000000000000);//100000000000000
+                    var anfang_str = prompt("Untergrenze",1000000000000000);//100000000000000
                     if (!anfang_str) return;
                     anfang = parseInt(anfang_str);
                     
-                    var ende_str = prompt("Obergrenze (upper limit)",1000000000001000);//100000000000100
+                    var ende_str = prompt("Obergrenze",1000000000001000);//100000000000100
                     if (!ende_str) return;
                     ende =parseInt(ende_str);
                     
