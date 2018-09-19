@@ -8,5 +8,6 @@ New calculation by reloading the page (mostly press F5)
 
 # [Show](https://sauternic.github.io/JavaScript_Primzahlen_Auflisten/)
 
-Ps: Wenn es mit Google Chrom geöffnet wird rechnet es am Schnellsten! :))))
+Ps: Wenn es mit Google Chrom geöffnet wird rechnet es am Schnellsten! :))))    
+Ps: If it opens with Google Chrome, it's the fastest!  :))))
 
