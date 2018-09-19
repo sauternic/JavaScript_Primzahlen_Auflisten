@@ -1,6 +1,6 @@
 # JavaScript_Primzahlen_Auflisten
 
-Listet Primzahlen dynamisch im angegebenen Bereich auf. (Bis 16 Stellen)
+Listet Primzahlen dynamisch im angegebenen Bereich auf. (Bis 16 Stellen)   
 Neue Berechnung durch Neuladen der Seite (Meist F5 Drücken)
 
 Lists primes dynamically in the specified range. (Up to 16 digits)   
